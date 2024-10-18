@@ -1,6 +1,6 @@
 # The-Golden-Era-of-Video-Games
 ![Video_games](video.jpg)
-Exploratory data analysis (EDA) of International debt statistics using SQL.
+Exploratory data analysis (EDA) of the Video game Industry
 ## INTRODUCTION
 The global video game industry is a major player in entertainment, with projections suggesting it will exceed $300 billion in value by 2027. With immense revenue at stake, game publishers are constantly striving to produce blockbuster titles that capture both critical acclaim and consumer enthusiasm. But what makes a game successful, and has the industry reached its peak in terms of quality and popularity?
 
